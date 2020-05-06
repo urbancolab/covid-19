@@ -672,42 +672,54 @@ What if there's no vaccine for *years*? Or *ever?*
 如果未来数年甚至永久都没有疫苗该怎么办？
 
 **To be clear: this is unlikely.** Most epidemiologists expect a vaccine in 1 to 2 years. Sure, there's never been a vaccine for any of the other coronaviruses before, but that's because SARS was eradicated quickly, and "the" common cold wasn't worth the investment. 
+**这并不是不可能.** 大部分流行病学家预计疫苗的开发需1至2年。而且，因为SARS疫情来去匆匆以及缺乏对常见风寒的投资，至今尚没有任何冠状病毒疫苗。
 
 Still, infectious disease researchers have expressed worries: What if we can't make enough?[^vax_enough] What if we rush it, and it's not safe?[^vax_safe]
+此外，传染病研究者表达了担忧：如果我们无法及时提供充足的疫苗会如何？[^vax_enough] 亦或，如果我们太冒进而无法充分保障疫苗的安全性会如何？[^vax_enough] 
 
 [^vax_enough]: “If a coronavirus vaccine arrives, can the world make enough?” [by Roxanne Khamsi, on Nature](https://www.nature.com/articles/d41586-020-01063-8)
 
 [^vax_safe]: “Don’t rush to deploy COVID-19 vaccines and drugs without sufficient safety guarantees” [by Shibo Jiang, on Nature](https://www.nature.com/articles/d41586-020-00751-9)
 
 Even in the nightmare "no-vaccine" scenario, we still have 3 ways out. From most to least terrible:
+即使面对最糟糕的“无疫苗”状况，我们依然有三条活路。按照从严重到轻微，依次是：
 
 1) Do intermittent or loose R < 1 interventions, to reach "natural herd immunity". (Warning: this will result in many deaths & damaged lungs. *And* won't work if immunity doesn't last.)
+1）间断或放松 R<1 干预从而获取“自然群体免疫”。（警告：这个方案将导致大量的死亡和肺部受损。*而且*，一旦抗体消失将失效）
 
 2) Do the R < 1 interventions forever. Contact tracing & wearing masks just becomes a new norm in the post-COVID-19 world, like how STI tests & wearing condoms became a new norm in the post-HIV world.
+2）长久执行 R <1 干预措施。在后COVID-19世界将密切接触追踪和佩戴口罩作为类似于后HIV世界的性传播疾病和佩戴安全套的日常生活规范。
 
 3) Do the R < 1 interventions until we develop treatments that make COVID-19 way, way less likely to need critical care. (Which we should be doing *anyway!*) Reducing ICU use by 10x is the same as increasing our ICU capacity by 10x:
+3) 保持 R < 1 干预措施直到发现有效减轻COVID-19病情的方法。（正如我们现在正在实施的方案）。降低重症监护需求10倍等同于增加重症监护床位10倍。
 
 **Here's a simulation of *no* lasting immunity, *no* vaccine, and not even any interventions – just slowly increasing capacity to survive the long-term spikes:**
+**以下是在*无*长期免疫, *n无*疫苗, 甚至不做任何干预（仅逐渐增加病床数以应对长期病患峰值）情况下的模拟:**
 
 <div class="sim">
 		<iframe src="sim?stage=yrs-5&format=lines" width="800" height="540"></iframe>
 </div>
 
 Even under the *worst* worst-case scenario... life perseveres.
+即使在*最最差*情况下，人类仍能延续。
 
 . . .
 
 Maybe you'd like to challenge our assumptions, and try different R<sub>0</sub>'s or numbers. Or try simulating your *own* combination of intervention plans!
+也许你会想试试在不同的基本再生指数R<sub>0</sub>'s或者按照*个人*偏好组合不同的干预措施情况下进行模拟检验我们的假设。
 
 **Here's an (optional) Sandbox Mode, with *everything* available. (scroll to see all controls) Simulate & play around to your heart's content:**
+**以下是一个沙盒模型，可以任意配置*所有可选参数*（请滚动滑轮查看所有控制项）.按照自己的意愿模拟把玩吧：**
 
 <div class="sim">
 		<iframe src="sim?stage=SB&format=sb" width="800" height="540"></iframe>
 </div>
 
 This basic "epidemic flight simulator" has taught us so much. It's let us answer questions about the past few months, next few months, and next few years.
+上述基本的"传染病模拟器"传授给了我们很多知识。现在，让我们来回答关于过去几个月、未来几个月、以及未来若干年的问题吧。
 
 So finally, let's return to...
+最后，让我们 ...
 
 <div class="section chapter">
     <div>
