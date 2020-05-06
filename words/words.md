@@ -691,14 +691,17 @@ So finally, let's return to...
     <div>
 		<img src="banners/curve.png" height=480 style="position: absolute;"/>
         <div>The Now</div>
+	<div>立足当下</div>
     </div>
 </div>
 
 Plane's sunk. We've scrambled onto the life rafts. It's time to find dry land.[^dry_land]
+情况已经发生。我们只能努力寻找求生的办法。
 
 [^dry_land]: Dry land metaphor [from Marc Lipsitch & Yonatan Grad, on STAT News](https://www.statnews.com/2020/04/01/navigating-covid-19-pandemic/)
 
 Teams of epidemiologists and policymakers ([left](https://www.americanprogress.org/issues/healthcare/news/2020/04/03/482613/national-state-plan-end-coronavirus-crisis/), [right](https://www.aei.org/research-products/report/national-coronavirus-response-a-road-map-to-reopening/ ), and [multi-partisan](https://ethics.harvard.edu/covid-roadmap)) have come to a consensus on how to beat COVID-19, while protecting our lives *and* liberties.
+流行病学家、政策制定者 ([left](https://www.americanprogress.org/issues/healthcare/news/2020/04/03/482613/national-state-plan-end-coronavirus-crisis/), [right](https://www.aei.org/research-products/report/national-coronavirus-response-a-road-map-to-reopening/ )以及[多党派](https://ethics.harvard.edu/covid-roadmap))已经就如何保护公众的生命*和*自由并战胜新冠疫情达成共识。
 
 Here's the rough idea, with some (less-consensus) backup plans:
 
