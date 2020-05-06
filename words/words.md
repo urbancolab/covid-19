@@ -701,7 +701,7 @@ Plane's sunk. We've scrambled onto the life rafts. It's time to find dry land.[^
 [^dry_land]: Dry land metaphor [from Marc Lipsitch & Yonatan Grad, on STAT News](https://www.statnews.com/2020/04/01/navigating-covid-19-pandemic/)
 
 Teams of epidemiologists and policymakers ([left](https://www.americanprogress.org/issues/healthcare/news/2020/04/03/482613/national-state-plan-end-coronavirus-crisis/), [right](https://www.aei.org/research-products/report/national-coronavirus-response-a-road-map-to-reopening/ ), and [multi-partisan](https://ethics.harvard.edu/covid-roadmap)) have come to a consensus on how to beat COVID-19, while protecting our lives *and* liberties.
-流行病学家与政策制定者 ([左派](https://www.americanprogress.org/issues/healthcare/news/2020/04/03/482613/national-state-plan-end-coronavirus-crisis/), [右派](https://www.aei.org/research-products/report/national-coronavirus-response-a-road-map-to-reopening/ )以及[多党派](https://ethics.harvard.edu/covid-roadmap))已经就如何保护公众的生命*和*自由并战胜新冠疫情达成共识。
+流行病学家与政策制定者 ([左翼](https://www.americanprogress.org/issues/healthcare/news/2020/04/03/482613/national-state-plan-end-coronavirus-crisis/), [右翼](https://www.aei.org/research-products/report/national-coronavirus-response-a-road-map-to-reopening/ )以及[第三方政党](https://ethics.harvard.edu/covid-roadmap))已经就如何保护公众的生命*和*自由并战胜新冠疫情达成共识。
 
 Here's the rough idea, with some (less-consensus) backup plans:
 就应对方案取得的基本共识（尽管存在少许分歧）如下：
