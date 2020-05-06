@@ -583,19 +583,27 @@ So now, let's plan for some *worse* worst-case scenarios. Water landing, get you
     <div>
 		<img src="banners/curve.png" height=480 style="position: absolute;"/>
         <div>The Next Few Years</div>
+        <div>未来数年</div>
     </div>
 </div>
 
 You get COVID-19, and recover. Or you get the COVID-19 vaccine. Either way, you're now immune...
+无论是感染COVID-19后治愈亦或接种COVID-19疫苗，大家最终将获得免疫力。
 
 ...*for how long?*
+...*问题是需要等多久?*
 
 * COVID-19 is most closely related to SARS, which gave its survivors 2 years of immunity.[^SARS immunity]
 * The coronaviruses that cause "the" common cold give you 8 months of immunity.[^cold immunity]
 * There's reports of folks recovering from COVID-19, then testing positive again, but it's unclear if these are false positives.[^unclear]
+* 与COVID-19最接近的SARS病毒治愈者体内的抗体能够保持2年。[^SARS immunity]
+* 导致常见风寒症状的冠状病毒治愈者体内的抗体能够保持8个月。[^cold immunity]
+* 亦有报道声称部分COVID-19病毒治愈者发生再次感染，但是否假阳性尚无法证实。[^unclear]
 * One *not-yet-peer-reviewed* study on monkeys showed immunity to the COVID-19 coronavirus for at least 28 days.[^monkeys]
+* 一项*尚未通过同行评议*的研究发现感染COVID-19治愈后的猴子体内的抗体至少能够保持28天。[^monkeys]
 
 But for COVID-19 *in humans*, as of May 1st 2020, "how long" is the big unknown.
+但是，截至2020年5月1日，*人体*感染后COVID-19后产生的抗体能够维持多长时间尚无定论。
 
 [^SARS immunity]: “SARS-specific antibodies were maintained for an average of 2 years [...] Thus, SARS patients might be susceptible to reinfection ≥3 years after initial exposure.” [Wu LP, Wang NC, Chang YH, et al.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2851497/) "Sadly" we'll never know how long SARS immunity would have really lasted, since we eradicated it so quickly.
 
@@ -606,39 +614,50 @@ But for COVID-19 *in humans*, as of May 1st 2020, "how long" is the big unknown.
 [^monkeys]: From [Bao et al.](https://www.biorxiv.org/content/10.1101/2020.03.13.990226v1.abstract) *Disclaimer: This article is a preprint and has not been certified by peer review (yet).* Also, to emphasize: they only tested re-infection 28 days later. 
 
 For these simulations, let's say it's 1 year.
+在我们的模拟中，假设人体COVID-19免疫可能维持1年。
 **Here's a simulation starting with 100% <span class="nowrap"><icon r></icon>**,</span> exponentially decaying into susceptible, no-immunity <span class="nowrap"><icon s></icon>s</span> after 1 year, on *average*, with variation:
+**在以下模拟中，所有的(100%)<span class="nowrap"><icon r></icon>**</span>将在1年后随时间指数减少（注：*平均*意义，可存在偏差），并转为易感染<span class="nowrap"><icon s></icon>s</span>。
 
 <div class="sim">
 		<iframe src="sim?stage=yrs-1&format=lines&height=600" width="800" height="600"></iframe>
 </div>
 
 Return of the exponential decay!
+指数衰减又回来了。
 
 This is the **SEIRS Model**. The final "S" stands for <icon s></icon> Susceptible, again.
+这就是**SEIRS模型**。其中，后一个“S”代表<icon s></icon>再次易感染者。
 
 ![](pics/seirs.png)
 
 Now, let's simulate a COVID-19 outbreak, over 10 years, with no interventions... *if immunity only lasts a year:*
+现在，让我们来模拟10年后无任何干预情形下的COVID-19的爆发。。。*记住免疫力只能持续一年:*
 
 <div class="sim">
 		<iframe src="sim?stage=yrs-2&format=lines&height=600" width="800" height="600"></iframe>
 </div>
 
 In previous simulations, we only had *one* ICU-overwhelming spike. Now, we have several, *and* <icon i></icon> cases come to a rest *permanently at* ICU capacity. (Which, remember, we *tripled* for these simulations)
+在之前的模拟中，我们只遇到一个超出重症监护床位的病患数峰值。现在，我们遇到了多个峰值，*并且* <icon i></icon>患者数将一直维持在重症监护床位数最大水平。（即使我们已经在模拟中将重症监护床位数设置了现实的3倍）
 
 R = 1, it's **endemic.**
+再生指数 R = 1 时将导致地方病。 
 
 Thankfully, because summer reduces R, it'll make the situation better:
+多亏夏天将降低再生指数 R，让我们看看模拟结果是否变得更好：
 
 <div class="sim">
 		<iframe src="sim?stage=yrs-3&format=lines&height=640" width="800" height="640"></iframe>
 </div>
 
 Oh.
+天哪。
 
 Counterintuitively, summer makes the spikes worse *and* regular! This is because summer reduces new <span class="nowrap"><icon i></icon>s,</span> but that in turn reduces new immune <span class="nowrap"><icon r></icon>s.</span> Which means immunity plummets in the summer, *creating* large regular spikes in the winter.
+反常的是，夏天使得这些峰值变得更糟*而且*更频繁了。虽然新感染者<span class="nowrap"><icon i></icon>s </span>在夏天减少了，反过来新免疫者<span class="nowrap"><icon r></icon>s</span>也相应减少了。因此，免疫状态在夏天暴跌，导致冬天*产生*规模更大的病患峰值。
 
 Thankfully, the solution to this is pretty straightforward – just vaccinate people every fall/winter, like we do with flu shots:
+多亏应对这个问题的方案也很简单：向流感疫苗一样，每年秋冬季接种疫苗即可。
 
 **(After playing the recording, try simulating your own vaccination campaigns! Remember you can pause/continue the sim at any time)**
 
@@ -647,8 +666,10 @@ Thankfully, the solution to this is pretty straightforward – just vaccinate pe
 </div>
 
 But here's the scarier question:
+但是，这也引发了一个更加瘆人的问题：
 
 What if there's no vaccine for *years*? Or *ever?*
+如果未来数年甚至永久都没有疫苗该怎么办？
 
 **To be clear: this is unlikely.** Most epidemiologists expect a vaccine in 1 to 2 years. Sure, there's never been a vaccine for any of the other coronaviruses before, but that's because SARS was eradicated quickly, and "the" common cold wasn't worth the investment. 
 
