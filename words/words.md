@@ -705,7 +705,7 @@ Teams of epidemiologists and policymakers ([left](https://www.americanprogress.o
 流行病学家与政策制定者 ([左翼](https://www.americanprogress.org/issues/healthcare/news/2020/04/03/482613/national-state-plan-end-coronavirus-crisis/), [右翼](https://www.aei.org/research-products/report/national-coronavirus-response-a-road-map-to-reopening/ )以及[第三方政党](https://ethics.harvard.edu/covid-roadmap))已经就如何保护公众的生命*和*自由并战胜新冠疫情达成共识。
 
 Here's the rough idea, with some (less-consensus) backup plans:
-就应对方案取得的基本共识（尽管存在少许分歧）如下：
+尽管仍存在少许分歧，大家就应对方案取得的基本共识如下：
 
 ![](pics/plan.png)
 
