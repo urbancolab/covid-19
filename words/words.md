@@ -697,7 +697,7 @@ So finally, let's return to...
 </div>
 
 Plane's sunk. We've scrambled onto the life rafts. It's time to find dry land.[^dry_land]
-情况已经发生。我们只能努力寻找求生的办法。
+既然情况已经发生，我们只能努力寻找求生的办法。
 
 [^dry_land]: Dry land metaphor [from Marc Lipsitch & Yonatan Grad, on STAT News](https://www.statnews.com/2020/04/01/navigating-covid-19-pandemic/)
 
