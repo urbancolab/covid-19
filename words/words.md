@@ -1,3 +1,4 @@
+
 <div class="section">
     <div>
     	<iframe id="splash" width="960" height="480" src="banners/splash.html"></iframe>
@@ -712,11 +713,16 @@ So what does this mean for YOU, right now?
 以上方案对于每个人来说意味着什么呢？
 
 **For everyone:** Respect the lockdown so we can get out of Phase I asap. Keep washing those hands. Make your own masks. Download a *privacy-protecting* contact tracing app when those are available next month. Stay healthy, physically & mentally! And write your local policymaker to get off their butt and...
+**普通民众:** 尊重为尽快走出第一阶段而实施的封城举措；勤洗手、带口罩；安装*遵守隐私保护原则*的病毒接触追踪软件（预计下个月推出）；保持身心健康；以及监督本地当局者的行动...
 
 **For policymakers:** Make laws to support folks who have to self-isolate/quarantine. Hire more manual contact tracers, *supported* by privacy-protecting contact tracing apps. Direct more funds into the stuff we should be building, like...
+**政策制定方:** 制定政策帮助需要居家隔离的人员；雇佣密切接触者追踪员；*支持*合法的病毒接触追踪软件；为相关事务提供更多的经费支持...
 
 **For builders:** Build tests. Build ventilators. Build personal protective equipment for hospitals. Build tests. Build masks. Build apps. Build antivirals, prophylactics, and other treatments that aren't vaccines. Build vaccines. Build tests. Build tests. Build tests. Build hope. 
+**相关企业:** 提供足够多的检测试剂、呼吸机、医护人员个人防护设备、口罩、追踪软件、抗病毒药、预防治疗设备以及疫苗。检测试剂越多，越能给民众带来希望。
 
 Don't downplay fear to build up hope. Our fear should *team up* with our hope, like the inventors of airplanes & parachutes. Preparing for horrible futures is how we *create* a hopeful future.
+避免为提升信心而抑制恐惧。恐惧和希望如同飞机和降落伞应*结伴而行*。做好应对最坏情况的预案，将有助于我们*创造*最光明的未来。
 
 The only thing to fear is the idea that the only thing to fear is fear itself.
+藐视恐惧本身才是最危险的做法。
