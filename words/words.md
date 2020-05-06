@@ -583,7 +583,7 @@ So now, let's plan for some *worse* worst-case scenarios. Water landing, get you
     <div>
 		<img src="banners/curve.png" height=480 style="position: absolute;"/>
         <div>The Next Few Years</div>
-        <div>未来数年</div>
+        <div>展望未来数年</div>
     </div>
 </div>
 
