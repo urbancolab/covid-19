@@ -588,7 +588,7 @@ So now, let's plan for some *worse* worst-case scenarios. Water landing, get you
 </div>
 
 You get COVID-19, and recover. Or you get the COVID-19 vaccine. Either way, you're now immune...
-无论是感染COVID-19后治愈亦或接种COVID-19疫苗，大家最终将获得免疫力。
+无论是感染COVID-19后治愈亦或接种COVID-19疫苗，大家最终都将获得免疫力。
 
 ...*for how long?*
 ...*问题是需要等多久?*
