@@ -614,7 +614,7 @@ But for COVID-19 *in humans*, as of May 1st 2020, "how long" is the big unknown.
 [^monkeys]: From [Bao et al.](https://www.biorxiv.org/content/10.1101/2020.03.13.990226v1.abstract) *Disclaimer: This article is a preprint and has not been certified by peer review (yet).* Also, to emphasize: they only tested re-infection 28 days later. 
 
 For these simulations, let's say it's 1 year.
-在我们的模拟中，假设人体COVID-19免疫可能维持1年。
+在我们的模拟中，假设人体COVID-19免疫能够维持1年。
 **Here's a simulation starting with 100% <span class="nowrap"><icon r></icon>**,</span> exponentially decaying into susceptible, no-immunity <span class="nowrap"><icon s></icon>s</span> after 1 year, on *average*, with variation:
 **在以下模拟中，所有的(100%)<span class="nowrap"><icon r></icon>**</span>将在1年后随时间指数减少（注：*平均*意义，可存在偏差），并转为易感染<span class="nowrap"><icon s></icon>s</span>。
 
