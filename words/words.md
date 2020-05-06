@@ -725,4 +725,4 @@ Don't downplay fear to build up hope. Our fear should *team up* with our hope, l
 避免为提升信心而抑制恐惧。恐惧和希望如同飞机和降落伞应*结伴而行*。做好应对最坏情况的预案，将有助于我们*创造*最光明的未来。
 
 The only thing to fear is the idea that the only thing to fear is fear itself.
-藐视恐惧本身才是最危险的做法。
+藐视恐惧才是最危险的做法。
