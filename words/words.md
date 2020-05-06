@@ -722,7 +722,7 @@ So what does this mean for YOU, right now?
 **相关企业:** 提供足够多的检测试剂、呼吸机、医护人员个人防护设备、口罩、追踪软件、抗病毒药、预防治疗设备以及疫苗。检测试剂越多，越能给民众带来希望。
 
 Don't downplay fear to build up hope. Our fear should *team up* with our hope, like the inventors of airplanes & parachutes. Preparing for horrible futures is how we *create* a hopeful future.
-避免为提升信心而抑制恐惧。恐惧和希望如同飞机和降落伞应*结伴而行*。做好应对最坏情况的预案，将有助于我们*创造*最光明的未来。
+避免为提升信心而抑制恐惧。恐惧和希望如同飞机和降落伞应*结伴而行*。做好应对最坏情况的预案才有助于我们*创造*最光明的未来。
 
 The only thing to fear is the idea that the only thing to fear is fear itself.
 藐视恐惧才是最危险的做法。
